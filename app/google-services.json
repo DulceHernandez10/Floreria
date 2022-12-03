@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635969833427",
+    "project_id": "floreria-c8f56",
+    "storage_bucket": "floreria-c8f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635969833427:android:9dd49496b7cb585b498726",
+        "android_client_info": {
+          "package_name": "com.example.floreria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635969833427-7804ru52r00tgnubkirbvhtkvj2ugkcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJpgebZ_0G-ViMOBljavzbJLI2uLsHfT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635969833427-7804ru52r00tgnubkirbvhtkvj2ugkcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
